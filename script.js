@@ -57,7 +57,7 @@ if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.match
         }
         else{
             x.style.display = 'none';
-            showBtn.innerHTML = 'Double Click'
+            showBtn.innerHTML = 'Show More'
 
         }
 
